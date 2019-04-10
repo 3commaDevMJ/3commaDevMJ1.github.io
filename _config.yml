@@ -12,7 +12,7 @@
 #    `--'   `----''--'   '--' `--'
 
 
-theme:mingming.github.io
+##theme:mingming.github.io
 remote_theme : kitian616/jekyll-TeXt-theme
 ## => Site Settings
 ##############################
