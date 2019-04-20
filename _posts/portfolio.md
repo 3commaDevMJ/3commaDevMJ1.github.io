@@ -46,7 +46,7 @@
 
 -----------------
 개발환경 및 사용 기술
-EJB, Spring 3. , Xplatform
+EJB, Spring 3.x , Xplatform
 JAVA, JSP, MSSQL, Linux
 
 ***
